@@ -1,0 +1,35 @@
+Privacy Policy
+Introduction
+Welcome to Anamorphic Desqueeze App (the "App"). We respect your privacy and are committed to protecting it through our compliance with this policy. This Privacy Policy describes the types of information we may collect from you or that you may provide when you use the App and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+
+Information We Collect
+The App does not explicitly collect personal data from users. However, the App incorporates third-party services that may collect certain types of information automatically:
+
+Firebase Analytics: We use Firebase Analytics to help us understand how users interact with the App. Firebase Analytics automatically collects certain information, including but not limited to:
+
+Device information (e.g., device type, operating system, and unique device identifiers).
+Usage data (e.g., the number of users, session duration, and events triggered in the App).
+
+Google AdMob: The App uses Google AdMob to serve advertisements. Google AdMob may automatically collect certain information, including but not limited to:
+
+Device information (e.g., IP address, device model, and network information).
+Interaction data (e.g., ad interactions and app usage patterns).
+In-App Purchases (Google Billing): The App provides in-app purchase options through Google Billing. While the App does not collect or store payment information, Google Billing may collect data necessary to process your purchases.
+
+Use of Information
+The information collected by third-party services is used for the following purposes:
+
+To analyze usage patterns and improve the functionality of the App (via Firebase Analytics).
+To serve relevant advertisements to you (via Google AdMob).
+To process and manage in-app purchases (via Google or Apple Billing).
+
+Third-Party Services
+The App uses the following third-party services that may collect and process your data:
+
+Firebase Analytics
+Google AdMob
+Google/Apple Billing
+Please review these third-party privacy policies to understand how your data may be processed by these services.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy
